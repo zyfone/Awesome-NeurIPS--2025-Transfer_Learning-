@@ -2,6 +2,36 @@
 
 ------
 
+
+
+### Main Topic:
+
+- Domain Adaptation / Generalization
+- LLM / Multimodal
+- Diffusion / Generation
+- Graph / PDEs
+
+
+
+------
+
+### 🏷️ Research Topics Overview
+
+| #    | **Topic**                              | **Representative Keywords**                              | **Core Focus Description**                                   |
+| ---- | -------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | **Domain Adaptation & Generalization** | domain, adaptation, generalization, transfer, shift      | Focuses on cross-domain model generalization, target domain adaptation, and zero-shot transfer learning. |
+| 2    | **Vision & Diffusion Models**          | diffusion, image, visual, cross-domain, generation       | Involves visual generation, diffusion models, and cross-domain alignment for image understanding. |
+| 3    | **Graph Representation & Learning**    | graph, heterogeneous, node, retrieval, structure         | Studies graph neural networks (GNNs), structural learning, and graph-to-text generalization. |
+| 4    | **Large Language Models & Reasoning**  | LLM, reasoning, multimodal, prompting, foundation models | Covers multimodal reasoning, cross-task capabilities, and safety of large language models. |
+| 5    | **Federated & Collaborative Learning** | federated, aggregation, fine-tuning, adaptive            | Focuses on federated learning, cross-client task adaptation, and collaborative model training. |
+| 6    | **Scientific & Physical Domains**      | PDEs, physics, simulation, 3D, operator, surrogate       | Applies machine learning to physical simulations, PDE solving, and scientific modeling tasks. |
+
+------
+
+
+
+
+
 # 📚 Domain-related Papers 
 
 1. Latent Retrieval Augmented Generation of Cross-Domain Protein Binders
